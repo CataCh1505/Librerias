@@ -1,0 +1,13 @@
+hacer lectura, hacer ppt de lo importante
+arquitectura leerla y no se hace ppt
+segundo enlace se hace la ppt pequeña
+30-40 minutos y se expone.
+
+PRIMERA LECTURA NO SE HACE PRESENTACIÓN: https://aosabook.org/en/v2/matplotlib.html
+
+SEGUNDA LECTURA SI SE HACE: https://docs.kanaries.net/es/articles/best-python-visualization-library
+
+subir en github esto que hicimos
+
+COMO CONFIGURAR PygWalker
+https://pypi.org/project/pygwalker/
